@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\bin\Debug\KlasaStablo.exe.config
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\bin\Debug\KlasaStablo.exe
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\bin\Debug\KlasaStablo.pdb
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\obj\Debug\KlasaStablo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\obj\Debug\KlasaStablo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\obj\Debug\KlasaStablo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\obj\Debug\KlasaStablo.exe
+C:\Users\PC\source\repos\KlasaStablo\KlasaStablo\obj\Debug\KlasaStablo.pdb
